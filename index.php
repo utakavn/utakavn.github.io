@@ -1,4 +1,6 @@
-<html>
+<?php
+echo "hello";
+?><html>
 	<head>
 		<title>Github</title>
 	</head>
